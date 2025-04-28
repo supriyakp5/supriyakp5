@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @supriyakp5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 <!-- Banner Section -->
 <p align="center">
@@ -24,10 +16,10 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently working on **full-stack web development projects**
-- 🌱 I’m currently learning **Machine Learning and Cloud Computing**
+- 🌱 I’m currently learning **Java Development**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Python, Git, or anything tech!**
-- 📫 How to reach me: **[supriyakp5@example.com](mailto:supriyakp5@example.com)**
+- 💬 Ask me about **Java, Git, or anything tech!**
+- 📫 How to reach me: **[supriyakp696@gmail.com](mailto:supriyakp696@gmail.com)**
 - ⚡ Fun fact: **I love solving puzzles and debugging code at 2 AM! 🌙**
 
 ---
