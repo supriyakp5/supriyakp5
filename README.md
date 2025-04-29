@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Supriya</h1>
-<h3 align="center">A passionate Web Developer and AI/ML Enthusiast</h3>
+<h3 align="center"> Web Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;ML+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Java, Git, or anything tech!**
 - 📫 How to reach me: **[supriyakp696@gmail.com](mailto:supriyakp696@gmail.com)**
-- ⚡ Fun fact: **I love solving puzzles and debugging code at 2 AM! 🌙**
+
 
 ---
 
@@ -28,10 +28,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
